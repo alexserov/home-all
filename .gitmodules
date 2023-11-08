@@ -1,0 +1,3 @@
+[submodule "home-backend-public"]
+	path = home-backend-public
+	url = git@github.com:alexserov/home-backend-public.git
